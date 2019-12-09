@@ -1,0 +1,19 @@
+/* @import url('https://fonts.googleapis.com/css?family=Anton&display=swap'); */
+
+@font-face {
+  font-family: 'Impact';
+  src: local('Impact'), url('./fonts/Impact.ttf') format('truetype');
+}
+
+body {
+  margin: 0;
+  font-family: 'Impact',
+  sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
